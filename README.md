@@ -17,5 +17,7 @@ Game Interface:
 Buttons: Represent briefcases, which reveal monetary amounts when clicked.
 Labels: Show remaining possible amounts, updating dynamically as cases are opened.
 Responsive Layout: The GUI is full-screen and adjusts dynamically for an immersive experience.
+
+
 Objective:
 Maximize your winnings by strategically deciding when to accept a banker's offer or continue playing to reveal the amount in your chosen case.
